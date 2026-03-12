@@ -3,7 +3,7 @@ Hi 👋 I'm Raju
 🎓 B.Tech CSE Student at SRKR Engineering College
 💻 Learning Web Development (HTML, CSS, JavaScript)
 🚀 Aspiring Open Source Contributor
-🎯 Goal: Contribute to Google Summer of Code 2026
+🎯 Goal: Crack Google Summer of Code 2026
 
 ---
 
@@ -13,6 +13,25 @@ Hi 👋 I'm Raju
 - CSS
 - JavaScript
 - Python
+- Git & GitHub
+
+---
+
+🛠 Skills
+
+HTML | CSS | JavaScript | Python | Git
+
+---
+
+📊 GitHub Stats
+
+"Raju GitHub stats" (https://github-readme-stats.vercel.app/api?username=DhanaForge&show_icons=true)
+
+---
+
+🔥 Most Used Languages
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=DhanaForge&layout=compact)
 
 ---
 
@@ -27,8 +46,8 @@ Hi 👋 I'm Raju
 
 📫 Connect With Me
 
-- GitHub: https://github.com/DhanaForge
+GitHub: https://github.com/DhanaForge
 
 ---
 
-⭐ "Building something better every day."
+⭐ “Building skills one commit at a time.”
