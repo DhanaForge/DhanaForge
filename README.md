@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi 👋 I'm Raju
 
-<!--
-**DhanaForge/DhanaForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at SRKR Engineering College
+💻 Learning Web Development (HTML, CSS, JavaScript)
+🚀 Aspiring Open Source Contributor
+🎯 Goal: Contribute to Google Summer of Code 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+
+---
+
+🚀 Projects
+
+- Portfolio Website (Coming Soon)
+- To-Do List App
+- Calculator App
+- Weather App
+
+---
+
+📫 Connect With Me
+
+- GitHub: https://github.com/DhanaForge
+
+---
+
+⭐ "Building something better every day."
